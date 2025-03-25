@@ -1,1 +1,37 @@
-[]
+[
+    {
+        "id": "67f5d841-3839-4b55-a02a-5c8bfa95ffe8",
+        "name": "Naomi Mante",
+        "phone": "822-354-5787 x6247",
+        "email": "Herminia.Gislason19@hotmail.com",
+        "job": "Senior Data Specialist"
+    },
+    {
+        "id": "78e3e8a9-bef8-44f1-a43c-0ac4f44cd297",
+        "name": "Beatrice Connelly",
+        "phone": "598.686.0753 x652",
+        "email": "Nasir_Kohler@gmail.com",
+        "job": "Legacy Quality Assistant"
+    },
+    {
+        "id": "1aec3985-08de-44af-904b-fd527ee50b57",
+        "name": "Lance Dickens",
+        "phone": "1-847-646-3750",
+        "email": "Garett5@gmail.com",
+        "job": "National Operations Associate"
+    },
+    {
+        "id": "d4525d67-11eb-4bc7-80a8-935c28fe537c",
+        "name": "Laverne Schmitt",
+        "phone": "(325) 298-9135 x6590",
+        "email": "Natalie_Walker@hotmail.com",
+        "job": "District Web Associate"
+    },
+    {
+        "id": "f8d22a9c-aec5-4f8c-81bf-68e26ea3c40c",
+        "name": "Jaime Turner II",
+        "phone": "272.628.3080",
+        "email": "Garrison.Bayer@gmail.com",
+        "job": "National Metrics Analyst"
+    }
+]
